@@ -6,3 +6,5 @@ Projeto da disciplina Eletrônica para Computação com objetivo de criar uma fo
 
 |Componente    | Quantidade    | Especificações/tipo | Valor     |
 | :---         | :---          |     :---            | :---      |
+|Transformador | 1             | 16V                 |  XXXXX    |
+
