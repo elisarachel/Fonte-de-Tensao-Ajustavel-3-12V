@@ -1,4 +1,5 @@
-# Fonte de Tensao Ajustavel
+
+# Fonte de Tensão Ajustavel
 
 Projeto desenvolvido para a disciplina Eletrônica para Computação (SSC0180), ministrada pelo professor Eduardo Valle Simões, do curso Ciência da Computação da USP - São Carlos  
 
