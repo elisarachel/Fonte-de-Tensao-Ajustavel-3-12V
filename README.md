@@ -8,8 +8,8 @@ Projeto desenvolvido para a disciplina Eletrônica para Computação (SSC0180), 
 
 ## Lista de componentes do circuito 
 
-|Componente      | Especificações/tipo                         | Função                                       | Valor    |
-| :---:          |     :---:                                   | :---:                                        |:---:     |
+| Componente | Especificações     | Função/                                       | Valor    |
+|:---------: | :-----------------:|:-----:                                       |:-----:   |
 |Transformador   | Entrada: 127V/220V / Saída: 12V + 12V 500mA | Modifica o potêncial elétrico fornecido.     | R$ 21,90 |
 |Ponte de diodos | 50-100V/10A | Retifica uma corrente alternada para continua                                | R$ 4,40  |
 |Capacitor       | 330µF/25V | Armazena cargas elétricas num campo elétrico                                   | R$ 4,40¹ |
