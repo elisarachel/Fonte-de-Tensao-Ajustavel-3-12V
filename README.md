@@ -20,18 +20,32 @@ Resistor        | 1KΩ | Limita a corrente elétrica que passará pelo LED      
 Resistor        | 5.1KΩ | Impede que o potenciometro diminua a corrente abaixo de 3V                         | [R$0,29](https://www.filipeflop.com/produto/resistor-2-2k-14w-x20-unidades/)
 Pôtenciometro   | 10K | Regula a corrente elétrica do circuito entre 12V-3V                       | [R$3,90](https://www.filipeflop.com/produto/potenciometro-linear-10k/)  
 Transistor      | 40V/200mA  | Limitar a corrente elétrica                                        | [R$0,59](https://www.filipeflop.com/produto/transistor-a1015-pnp-x10-unidades/) 
+LED     | 3.0-3.2V/20mA  | Muda a intensidade de seu brilho dependendo da corrente                                        | [R$0,29](https://www.filipeflop.com/produto/led-difuso-5mm-verde-x10-unidades/)
+Total     |   |                                       | R$34,45
 
 
 
 ## Circuito do projeto
 
-### Falstad 
-
-  A imagem acima foi obtida através da montagem do circuito no simulador falstad, e pode ser acessada atraves do link: [Simulação Falstad](http://tinyurl.com/ychp2a6o)
+- ## Falstad 
+![falstad](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/Simulacao%20do%20circuito.png)
+  A imagem acima foi obtida através da montagem do circuito no simulador falstad, e pode ser acessada atraves do link: 
+  [Simulação Falstad](http://tinyurl.com/ychp2a6o)
   
   Uma explicação completa do circuito pode ser encontrada neste link no youtube.
-### Eagle 
+  
+- ## Eagle 
 
   Atraves do programa Eagle foi possivel desenhar a placa e todas as conexoes necessarias para possivel montagem da fonte, demonstrado nas imagens abaixo:
+![Esquematico do Eagle](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/esquematico%20eagle.jpeg)
+
+- ## PCB
+![PCB](https://github.com/IgorGato/Fonte-de-Tensao-Ajustavel-3-12V/blob/master/PCB.jpeg)
 
 
+# Participantes
+
+ - Elisa Rachel Beninca Martins. Número USP: XXXXXXX.
+ - Igor Mateus Queiroz Gato. Número USP: 10261481.
+ - Jonatas A Lopes. Número USP: XXXXXXX.
+ - Mateus dos Santos Ribeiro. Número USP: XXXXXXX.
