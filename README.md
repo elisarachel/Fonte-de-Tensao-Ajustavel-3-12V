@@ -12,7 +12,7 @@ Projeto desenvolvido para a disciplina Eletrônica para Computação (SSC0180), 
  Componente | Especificações     | Função | Valor    
 :---------: | :-----------------:|:-----: |:----------:  
 Transformador   | Entrada: 127V/220V / Saída: 12V + 12V 500mA | Modifica o potêncial elétrico fornecido.     |[R$21,90](https://www.filipeflop.com/produto/transformador-trafo-12v-12v-500ma-bivolt/?gclid=CjwKCAjwxLH3BRApEiwAqX9areP5FGhM8JJqK7Jvn082xlDDOCEa7RWokWT-8mK8e1Cb3rjjSbqzxxoCyewQAvD_BwE)
-Ponte de diodos | 50-100V/10A | Retifica uma corrente alternada para continua                                | [R$4,40](https://www.filipeflop.com/produto/modulo-ponte-h-kbu1010-retificadora/#tab-wc-simulador-parcelas) 
+Ponte de diodos | 50-1000V/10A | Retifica uma corrente alternada para continua                                | [R$4,40](https://www.filipeflop.com/produto/modulo-ponte-h-kbu1010-retificadora/#tab-wc-simulador-parcelas) 
 Capacitor       | 330µF/25V | Armazena carga elétrica num campo elétrico                                   | [R$0,89](https://www.filipeflop.com/produto/capacitor-eletrolitico-330%C2%B5f-25v-x5-unidades/)
 Diodo Zener     | 13V/0,5W | Regula a tensão elétrica                                                        | [R$1,90]( https://www.filipeflop.com/produto/diodo-zener-2-a-39v/) 
 Resistor        | 2.2KΩ |Diminui o consumo de energia, limitando a corrente que passa pelo Zener | [R$2,90](https://www.filipeflop.com/produto/resistor-2-2k-14w-x20-unidades/) 
