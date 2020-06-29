@@ -45,7 +45,7 @@ Total     |   |                                       | R$32,75
 
 # Participantes
 
- - Elisa Rachel Beninca Martins. Número USP: XXXXXXX.
+ - Elisa Rachel Beninca Martins. Número USP: 11878719.
  - Igor Mateus Queiroz Gato. Número USP: 10261481.
  - Jonatas A Lopes. Número USP: XXXXXXX.
  - Mateus dos Santos Ribeiro. Número USP: XXXXXXX.
